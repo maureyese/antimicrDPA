@@ -1,0 +1,11 @@
+dnaA
+dnaN
+gyrA
+guaB
+prs
+rplA
+rplJ
+rpoB
+rpoC
+rpsL
+fusA
