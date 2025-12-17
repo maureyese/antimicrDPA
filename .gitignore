@@ -1,2 +1,4 @@
 # Python environment
 .antimicrdpa/
+# Exclude subfolders from genes folder
+genes/*/
