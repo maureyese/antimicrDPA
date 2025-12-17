@@ -2,3 +2,5 @@
 .antimicrdpa/
 # Exclude subfolders from genes folder
 genes/*/
+__pycache__
+results/
